@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Angular16, ASP.NET API Core, and ASP.NET MVC**
 
-- 👯 I’m working now with my ITI graduattion Project Team on [The Food System Project](https://github.com/peterezz/The-Food-System)
-
 - 💬 Ask me about **Angular, HTML, CSS, Bootstrap, C#, and ASP.NET API**
 
 - 📫 How to reach me **somayazaid88@gmail.com**
