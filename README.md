@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somayazaid2&label=Profile%20views&color=0e75b6&style=flat" alt="somayazaid2" /> </p>
 
-- 🔭 I’m currently looking for a job as **.Net Developer**
+- 🔭 I’m currently looking for a job as **Full Stack .Net Developer**
 
 - 🌱 I’m currently learning **Angular16, ASP.NET API Core, and ASP.NET MVC**
 
